@@ -1,4 +1,4 @@
-OpenSubtitles-service
+XBMC SubDB Subtitles Service
 =====================
 
-service.opensubtitles
+service.subdb
